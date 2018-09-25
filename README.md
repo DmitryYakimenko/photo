@@ -1,8 +1,8 @@
 
 Важно!
 -------------------
-1.Существует migration базы migration/
-2.dump базы dump/
+1. Существует migration базы migration/
+2. dump базы dump/
 
 DIRECTORY STRUCTURE
 -------------------
