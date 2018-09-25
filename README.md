@@ -1,7 +1,7 @@
 
 Важно!
 -------------------
-### Существует migration базы в migration/(если что есть dump БД в dump/)
+### Существует migration базы в migration/ (если что есть dump БД в dump/)
 
 DIRECTORY STRUCTURE
 -------------------
