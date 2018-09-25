@@ -1,7 +1,8 @@
 
 Важно!
 -------------------
-### Существует migration базы в migration/ (если что есть dump БД в dump/)
+### 1. Существует migration базы в migration/ (если что есть dump БД в dump/photo.sql)
+### 2. Конфиг бд в config/db.php
 
 DIRECTORY STRUCTURE
 -------------------
